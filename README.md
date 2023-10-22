@@ -50,7 +50,15 @@ Creating secrets in key vault for app client id, tenant id and secret key
 
 ![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/bb75bae0-40a8-4c55-b7a1-d9a9d9a5d9c9)
 
+Giving access to key vault secrets
+
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/bbd68dac-1414-4303-9c6f-d92dd5e5730d)
+
+If you face issue while accessing secrets, read https://learn.microsoft.com/en-us/azure/role-based-access-control/troubleshooting?tabs=bicep#:%7E:text=az%20role%20assignment%20create%20%2D%2Dassignee%2Dobject%2Did%2011111111%2D1111%2D1111%2D1111%2D111111111111%20%20%2D%2Drole%20%22Contributor%22%20%2D%2Dscope%20%22/subscriptions/%7BsubscriptionId%7D/resourceGroups/%7BresourceGroupName%7D%22
+
 Creating scope in databricks workspace
 
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/1355686c-1b6f-44ff-8cee-4d4f91d21c62)
 
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/a51f15ea-37cf-4baf-8764-0c4b64a94cd6)
 
