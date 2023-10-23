@@ -110,3 +110,6 @@ Creating External File Format for parquet
 Creating External table on top of parquet data in ADLS
 
 ![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/9026954a-7f75-4106-9012-42c586277933)
+
+Final Resource Group of entire project
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/75a81dee-65db-4361-95b8-ef5887409379)
