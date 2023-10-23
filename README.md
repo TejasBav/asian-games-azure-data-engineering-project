@@ -78,3 +78,8 @@ Connecting cli to databricks using following command- databricks configure --tok
 Generating and using token from databricks User settings
 ![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/73ba9315-6413-41e3-a2e3-040e3d7789f7)
 
+Reading secrets from cli
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/067ac24c-d291-413e-a11d-3761034a1227)
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/49c45567-2fef-4910-86a9-f80ae7852013)
+
+
