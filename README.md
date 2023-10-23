@@ -101,6 +101,7 @@ CREATING CREDENTIAL
 ![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/4b2e99cb-2bce-40d5-8ff9-426d8d7ea72e)
 
 Creating External Data Source
+
 ![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/be9b5b3c-8c04-4446-9311-ca66182d8624)
 
 Creating External File Format for parquet
