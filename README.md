@@ -82,4 +82,29 @@ Reading secrets from cli
 ![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/067ac24c-d291-413e-a11d-3761034a1227)
 ![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/49c45567-2fef-4910-86a9-f80ae7852013)
 
+Creating dedicated sql pool
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/b1289ad0-c44d-4551-8d79-f79ef0666fe5)
 
+Logging in using query editor by SQL authentication
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/e2389f5f-29d9-4c39-95b2-24a79c6c9811)
+
+Generating SAS key in storage account
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/564690f7-a25a-4db6-bf41-3d671748a89a)
+
+Finding Primary endpoint for storage account
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/b3b89929-1aaf-47b4-be04-9c1507b48c19)
+
+Creating MASTER KEY
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/69446ddf-f72c-4f5b-9800-ba6d9be35a2d)
+
+CREATING CREDENTIAL
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/4b2e99cb-2bce-40d5-8ff9-426d8d7ea72e)
+
+Creating External Data Source
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/be9b5b3c-8c04-4446-9311-ca66182d8624)
+
+Creating External File Format for parquet
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/36b6d4ef-819c-422b-933e-9d132214bf6d)
+
+Creating External table on top of parquet data in ADLS
+![image](https://github.com/TejasBav/asian-games-azure-data-engineering-project/assets/148721897/9026954a-7f75-4106-9012-42c586277933)
